@@ -371,7 +371,8 @@ cubic_list = [number ** 3 for number in numbers]
 
   `[식 if 조건식 else 식 for 변수 in iterable]`
 
-  `[식 if 조건식 else 식 if 조건식 else 식 if ... else ... for 변수 in iterable]`
+  * `elif`는 아래와 같이 `if else`로 쓴다.
+  * `[식 if 조건식 else 식 if 조건식 else 식 if ... else ... for 변수 in iterable]`
 
 ##### 짝수리스트
 
